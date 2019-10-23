@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    height: 100px;
+    background-color: #333;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    height: 200px;
+    background-color: white;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    height: 100px;
+    background-color: #333;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
